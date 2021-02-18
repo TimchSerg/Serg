@@ -3,8 +3,32 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## Versions history
+- [0.6.0 - 2021-02-03](#060---2021-02-03)
+<!-- - [0.5.1 - 2020-03-26](#051---2020-03-26)
+- [0.5.0 - 2020-03-25](#050---2020-03-25)
+- [0.4.0 - 2019-12-30](#040---2019-12-30)
+- [0.3.1 - 2019-12-06](#031---2019-12-06)
+- [0.3.0 - 2019-11-25](#030---2019-11-25)
+- [0.2.0 - 2019-11-14](#020---2019-11-14)
+- [0.1.4 - 2019-09-19](#014---2019-09-19)
+- [0.1.3 - 2019-08-23](#013---2019-08-23)
+- [0.1.2 - 2019-08-22](#012---2019-08-22)
+- [0.1.1 - 2019-08-19](#011---2019-08-19)
+- [0.1.0 - 2019-08-16](#010---2019-08-16)
+- [0.0.1 - 2019-08-31](#001---2019-08-31) -->
 
-## [Unreleased]
+## Unreleased
+
+### 0.6.0 - 2021-02-03
+
+#### Important
+Current version tested only on apos build variant intended to run on Ingenico APOS android devices
+
+#### Added
+- Ingenico conactless and sam cards library and create api for using it
+- Umarsh transport card support and ability to make payments by them (only season tickets for now)
+<!-- ## [Unreleased] -->
 
 ## [1.0.0] - 2017-06-20
 ### Added
